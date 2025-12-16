@@ -57,7 +57,7 @@ perfumy-website/
 
 ## 📸 Screenshots
 
-![Home Page](screenshots/perfumy.png)
+![Home Page](Screenshots/perfumy.png)
 
 
 ## 🌐 Live Demo
