@@ -62,4 +62,4 @@ perfumy-website/
 
 ## 🌐 Live Demo
 
-🔗([https://dinishsg.github.io/academy-website-html/](https://dinishsg.github.io/perfumy-website-html-css/))
+🔗(https://dinishsg.github.io/perfumy-website-html-css/)
